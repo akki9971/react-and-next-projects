@@ -1,0 +1,32 @@
+.card.navbarcards {
+    display: inline-block;;
+    margin: 5px 10px;
+    width: 120px;
+    border: none;
+    
+}
+.card.navbarcards .card-img-top{
+    all: unset;
+    width: 70%;
+    display: flex;
+    margin:auto;
+}
+.card.navbarcards .btn{
+    display: flex;
+    margin: auto;
+    padding: 0;
+    justify-content: center;
+}
+
+/* carousel slider */
+.carousel-inner{
+    height: 350px;
+}
+
+.productsComp .card img{
+    height: 220px !important;
+}
+.productsComp .card .buttons{
+    display: flex;
+    justify-content: space-between;
+}

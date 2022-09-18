@@ -1,0 +1,19 @@
+
+
+.Left-Section {
+    width: 300px;
+    background-color: springgreen;
+}
+
+.filters {
+    width: 300px;
+}
+
+.Species {
+    display: flex;
+    align-items: center;
+}
+
+/* .checkbox-value {
+    display: block;
+} */

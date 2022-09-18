@@ -1,0 +1,44 @@
+.searchBox1{
+  margin-left: -40px;
+}
+.bg-orange{
+  background: orange;
+}
+.x-small{
+  font-size: 12px;
+}
+.xx-small{
+  font-size: 8px;
+}
+.small{
+  font-size: 15px;
+}
+.mt_-1{
+  margin-top: -0.5em;
+}
+.mt_-2{
+  margin-top: -1em;
+}
+.mt_-3{
+  margin-top: -1.5em;
+}
+.mb_-1{
+  margin-bottom: -0.5em;
+}
+.mb_-2{
+  margin-bottom: -1em;
+}
+.mb_-3{
+  margin-bottom: -1.5em;
+}
+.px-4-5{
+  padding-right:2.25rem;
+  padding-left:2.25rem;
+}
+.letter-space-1{
+  letter-spacing: 3px;
+}
+.mynav img{
+  width: 75px;
+  height: 80px;
+}

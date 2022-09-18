@@ -1,0 +1,9 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.Navbar {
+    margin: 0px;
+    background-color: aqua;
+}
